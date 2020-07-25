@@ -1,0 +1,175 @@
+html {
+    width: 1600px;
+}
+header{
+    position: relative;
+    top: 43px;
+    left: 80px;
+}
+.top-nav{
+    display: flex;
+    list-style: none;
+    position: absolute;
+    left: 748px;
+    top: 43px;
+}
+li{
+    padding-top: 15px;
+    padding-bottom: 13px;
+}
+#register{
+    background-color: #FB8F1D;
+    border-radius: 8px;
+    color: white;
+    font-size: 15px;
+    font-family: "Inter", sans-serif, monospace;
+    font-weight: 500;
+    
+    padding-left: 37px;
+    padding-right: 36px;
+    vertical-align: center;
+    text-align:center;
+    margin-left: 9px;
+}
+#login{
+    color: #FB8F1D;
+    border: 1px solid #FB8F1D;
+    border-radius: 8px;
+    font-family: "Inter", sans-serif, monospace;
+    font-weight: 500;
+    padding-right: 47px;
+    padding-left: 47px;
+    margin-right: 9px;
+    margin-left: 17px;
+}
+.partner{
+    padding-right: 17px;
+    padding-left: 18px;
+}
+.about{
+    padding-right: 18px;
+    padding-left: 18px;
+}
+.destinations {
+    padding-right: 17px;
+    padding-left: 18px;
+}
+.three{
+    color: #B8BECD;
+    font-size: 16px;
+    font-family: "Inter", sans-serif, monospace;
+    font-weight: 400;
+}
+#home{
+    color: #202336;
+    font-size: 16px;
+    font-family: "Inter", sans-serif, monospace;
+    font-weight: 500;
+    padding-right: 19px;
+}
+.logo{
+    position: absolute;
+    top: 58px;
+    left: 191px;
+    width: 41px;
+    height: 41px;
+}
+.thousand{
+    width: 687px;
+    height: 654px;
+    position:absolute;
+    top: 175px;
+    left: 808px;
+}
+.first-h2{
+    position: absolute;
+    top: 150px;
+    left: 190px;
+    line-height: 80px;
+    font-size: 64px;
+    color: #202336;
+    font-family: "Playfair Display", serif, monospace;
+    font-weight: 700;
+}
+.finder {
+    position:absolute;
+    top: 420px;
+    left: 192px;
+    font-size: 22px;
+    color: #202336;
+}
+.line {
+    position: absolute;
+    top: 490px;
+    left: 191px;
+    width: 32px;
+    height: 2px;
+    border-radius: 1px;
+    background-color: #202336;
+}
+.choices {
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 532px;
+    left: 191px;
+    width: 470px;
+
+}
+select {
+    width: 200px;
+    height: 52px;
+    border-radius: 6px;
+    border: 0.800000011920929px solid #afb0b9;
+    padding-left:10px;
+}
+.location {
+    margin-right: 15px;
+    margin-bottom: 17px;
+}
+.activity {
+    margin-left: 15px;
+    margin-bottom: 17px;
+}
+.grade {
+    margin-top: 18px;
+    margin-right: 15px;
+}
+.date {
+    margin-top: 18px;
+    margin-left: 15px;
+}
+.button1 {
+    position: absolute;
+    top: 722px;
+    left: 190px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: "Muli", sans-serif, monospace;
+    font-size: 17px;
+    padding-top: 19px;
+    padding-bottom: 16px;
+    padding-left: 61px;
+    padding-right: 60px;
+    background-color: #fb8f1d;
+    border-radius: 8px;
+}
+.element1 {
+position: absolute;;
+top: 783px;
+left: 732px;
+}
+.element2 {
+    width: 26px;
+    height: 26px;
+    position: absolute;
+    top: 494px;
+    left: 80px;
+}
+.element3 {
+    width: 21px;
+    height: 20px;
+    position: absolute;
+    top: 220px;
+    left: 657px;
+}
